@@ -4,7 +4,7 @@ MULTIPLE CHOICE
 
 a. JSP
 
-b. Thymeleaf
+b. Thymeleaf - Plamena's answer
 
 c. HTML
 
@@ -21,7 +21,7 @@ b. @RestController
 
 c. @Service
 
-d. @Data
+d. @Data - Plamena's answer
 
 
 
@@ -36,7 +36,7 @@ b. Add dependency inside pom.xml file
 
 c. Add dependency inside build.gradle file
 
-D. All the above
+D. All the above - Plamena's answer
 
 
 
@@ -44,7 +44,7 @@ D. All the above
 4. What is the dependency need to create a Spring boot web Application
 
 
-a. spring-boot-starter-web
+a. spring-boot-starter-web - Plamena's answer 
 
 b. spring-boot-starter-test
 
@@ -59,7 +59,7 @@ d. spring-boot-html\
 
 a. @Table
 
-b. @Entity
+b. @Entity- Plamena's answer
 
 c. @Column
 
@@ -78,7 +78,7 @@ b. Methods annotated with @Controller returns HTML filename
 
 c. Methods annotated with @RestController automatically converts Outputs with HTML
 
-d. All the Above
+d. All the Above- Plamena's answer
 
 
 
